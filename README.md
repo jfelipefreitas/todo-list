@@ -20,7 +20,7 @@ Certifique-se de ter o Node.js e o npm instalados na sua máquina.
 
 1. Clone o repositório para o seu ambiente local:
 
-git clone https://github.com/seu-usuario/todo-list.git
+git clone https://github.com/jfelipefreitas/atividadetodolist.git
 
 
 2. Navegue até o diretório do projeto:
